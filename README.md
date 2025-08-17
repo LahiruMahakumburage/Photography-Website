@@ -1,0 +1,1 @@
+This is Photography Website for Malcolm Lismore. HTML5, CSS, JS, PHP, MySQL are the languages of includes. This website can booking the photographer, email etc. Additionaly I add admin panel for easier to admin.
